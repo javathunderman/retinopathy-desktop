@@ -14,3 +14,8 @@ Main repository here: https://github.com/Nomikxyz/diabetic-retinopathy-screening
 
 Note: This is not to be used in any situation other than software testing. This should not be used in any medical circumstances. We are not responsible for any damage that occurs with use of this project. 
 
+# Dependencies
+
+- Tensorflow
+- Diabetic Retinopathy image dataset
+- GTK dependencies (GLADE, etc.)
